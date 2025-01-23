@@ -1,1 +1,1 @@
-client\src\assets\images\finance.png
+![Alt text](E:\Finance\client\src\assets\images\finance.png)
