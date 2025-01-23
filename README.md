@@ -1,1 +1,1 @@
-![Alt text](C:\Users\PC\Downloads\finance.png)
+client\src\assets\images\finance.png
